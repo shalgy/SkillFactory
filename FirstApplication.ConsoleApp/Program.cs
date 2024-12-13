@@ -3,7 +3,11 @@
     private static void Main(string[] args)
     {
         Console.WriteLine("Как Вас зовут?");
+<<<<<<< HEAD
         int q = 33;
+=======
+        int q = 22;
+>>>>>>> test
         string keep = Console.ReadLine();
         keep = keep + "\nА меня зовут - " + AppDomain.CurrentDomain.FriendlyName + "\nПриятно было с Вами познакомиться!";
         Console.WriteLine("Здравствуйте, {0}", keep);
