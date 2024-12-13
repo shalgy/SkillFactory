@@ -4,6 +4,7 @@
     {
         Console.WriteLine("Как Вас зовут?");
         string keep = Console.ReadLine();
+        int q = 33;
         keep = keep + "\nА меня зовут - " + AppDomain.CurrentDomain.FriendlyName + "\nПриятно было с Вами познакомиться!";
         Console.WriteLine("Здравствуйте, {0}", keep);
         Console.WriteLine("А сколько Вам лет?");
