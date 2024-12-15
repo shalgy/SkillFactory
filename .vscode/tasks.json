@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "msbuild",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "rebuild",
+			"label": "Rebuild: SkillFactoryLessons.csproj",
+			"detail": "Rebuild the SkillFactoryLessons.csproj project using dotnet msbuild /t:Rebuild"
+		},
+		{
+			"type": "dotnet",
+			"task": "build",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "dotnet: build"
+		}
+	]
+}

@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net9.0": []
   },
   "packageFolders": {
     "C:\\Users\\Shalgy\\.nuget\\packages\\": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shalgy\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
-      "projectName": "FirstApplication.ConsoleApp",
-      "projectPath": "C:\\Users\\Shalgy\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Shalgy\\Repos\\SkillFactory\\SkillFactory.csproj",
+      "projectName": "SkillFactory",
+      "projectPath": "C:\\Users\\Shalgy\\Repos\\SkillFactory\\SkillFactory.csproj",
       "packagesPath": "C:\\Users\\Shalgy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shalgy\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Shalgy\\Repos\\SkillFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shalgy\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -47,8 +47,8 @@
       "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",
@@ -60,24 +60,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.11, 8.0.11]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x86",
-            "version": "[8.0.11, 8.0.11]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.11, 8.0.11]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.11, 8.0.11]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
