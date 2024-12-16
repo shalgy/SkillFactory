@@ -1,5 +1,0 @@
-C:\Users\Shalgy\Repos\SkillFactory\obj\Debug\net9.0\SkillFactory.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Shalgy\Repos\SkillFactory\obj\Debug\net9.0\SkillFactory.AssemblyInfoInputs.cache
-C:\Users\Shalgy\Repos\SkillFactory\obj\Debug\net9.0\SkillFactory.AssemblyInfo.cs
-C:\Users\Shalgy\Repos\SkillFactory\obj\Debug\net9.0\SkillFactory.csproj.CoreCompileInputs.cache
-C:\Users\Shalgy\Repos\SkillFactory\obj\Debug\net9.0\SkillFactory.sourcelink.json
