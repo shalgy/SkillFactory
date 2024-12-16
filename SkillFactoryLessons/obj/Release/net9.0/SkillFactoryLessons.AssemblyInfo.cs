@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SkillFactory")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SkillFactoryLessons")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3ae458e6e7120b2f29ffe573105d6be365e51d3")]
-[assembly: System.Reflection.AssemblyProductAttribute("SkillFactory")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SkillFactory")]
+[assembly: System.Reflection.AssemblyProductAttribute("SkillFactoryLessons")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SkillFactoryLessons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

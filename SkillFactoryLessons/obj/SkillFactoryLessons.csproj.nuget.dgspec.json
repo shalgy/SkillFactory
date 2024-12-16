@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shalgy\\Repos\\SkillFactory\\SkillFactoryLessons\\SkillFactoryLessons.csproj": {}
+    "C:\\Repos\\SkillFactory\\SkillFactoryLessons\\SkillFactoryLessons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shalgy\\Repos\\SkillFactory\\SkillFactoryLessons\\SkillFactoryLessons.csproj": {
+    "C:\\Repos\\SkillFactory\\SkillFactoryLessons\\SkillFactoryLessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shalgy\\Repos\\SkillFactory\\SkillFactoryLessons\\SkillFactoryLessons.csproj",
+        "projectUniqueName": "C:\\Repos\\SkillFactory\\SkillFactoryLessons\\SkillFactoryLessons.csproj",
         "projectName": "SkillFactoryLessons",
-        "projectPath": "C:\\Users\\Shalgy\\Repos\\SkillFactory\\SkillFactoryLessons\\SkillFactoryLessons.csproj",
-        "packagesPath": "C:\\Users\\Shalgy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shalgy\\Repos\\SkillFactory\\SkillFactoryLessons\\obj\\",
+        "projectPath": "C:\\Repos\\SkillFactory\\SkillFactoryLessons\\SkillFactoryLessons.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\SkillFactory\\SkillFactoryLessons\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Shalgy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,8 +43,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net9.0": {
@@ -54,12 +59,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

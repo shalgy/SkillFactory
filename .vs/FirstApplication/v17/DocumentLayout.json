@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\!SkillFactory\\VS_Projects\\FirstApplication\\",
+  "WorkspaceRootPath": "C:\\Repos\\SkillFactory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27548904-5A3F-48F3-933D-2D97BE755428}|FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj|d:\\!skillfactory\\vs_projects\\firstapplication\\firstapplication.consoleapp\\firstapplication.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{27548904-5A3F-48F3-933D-2D97BE755428}|FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj|solutionrelative:firstapplication.consoleapp\\firstapplication.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{27548904-5A3F-48F3-933D-2D97BE755428}|FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj|c:\\repos\\skillfactory\\firstapplication.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27548904-5A3F-48F3-933D-2D97BE755428}|FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj|solutionrelative:firstapplication.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27548904-5A3F-48F3-933D-2D97BE755428}|FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj|d:\\!skillfactory\\vs_projects\\firstapplication\\firstapplication.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27548904-5A3F-48F3-933D-2D97BE755428}|FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj|solutionrelative:firstapplication.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27548904-5A3F-48F3-933D-2D97BE755428}|FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj|c:\\repos\\skillfactory\\firstapplication.consoleapp\\firstapplication.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27548904-5A3F-48F3-933D-2D97BE755428}|FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj|solutionrelative:firstapplication.consoleapp\\firstapplication.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FirstApplication.ConsoleApp.csproj",
-              "DocumentMoniker": "D:\\!SkillFactory\\VS_Projects\\FirstApplication\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
               "RelativeDocumentMoniker": "FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
-              "ToolTip": "D:\\!SkillFactory\\VS_Projects\\FirstApplication\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
+              "ToolTip": "C:\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
               "RelativeToolTip": "FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -35,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\!SkillFactory\\VS_Projects\\FirstApplication\\FirstApplication.ConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "FirstApplication.ConsoleApp\\Program.cs",
-              "ToolTip": "D:\\!SkillFactory\\VS_Projects\\FirstApplication\\FirstApplication.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\Program.cs",
               "RelativeToolTip": "FirstApplication.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T12:04:23.574Z",
               "EditorCaption": ""
