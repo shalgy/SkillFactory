@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!SkillFactory\\VS_Projects\\FirstApplication\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj": {}
+    "C:\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj": {}
   },
   "projects": {
-    "D:\\!SkillFactory\\VS_Projects\\FirstApplication\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj": {
+    "C:\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!SkillFactory\\VS_Projects\\FirstApplication\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
         "projectName": "FirstApplication.ConsoleApp",
-        "projectPath": "D:\\!SkillFactory\\VS_Projects\\FirstApplication\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
+        "projectPath": "C:\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\FirstApplication.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\!SkillFactory\\VS_Projects\\FirstApplication\\FirstApplication.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Repos\\SkillFactory\\FirstApplication.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
