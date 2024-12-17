@@ -3,5 +3,7 @@
 ################################################################################
 /.gitignore.swp
 /.vs
+/.vscode
 /Lessons/SkillFactoryLessons/.vs
 *.vsidx
+/Lessons/SkillFactoryLessons/.vs/SkillFactoryLessons/v17/.suo
