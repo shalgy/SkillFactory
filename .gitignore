@@ -1,9 +1,15 @@
 ﻿################################################################################
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
+
+/.vs/FirstApplication/DesignTimeBuild/.dtbcache.v2
+/.vs/FirstApplication/FileContentIndex/*.vsidx
+/.vs/SkillFactory/FileContentIndex/*.vsidx
+/.vs/slnx.sqlite
+/Lessons/SkillFactoryLessons/.vs/SkillFactoryLessons/FileContentIndex/*.vsidx
 /.gitignore.swp
 /.vs
 /.vscode
 /Lessons/SkillFactoryLessons/.vs
-*.vsidx
+/*.vsidx
 /Lessons/SkillFactoryLessons/.vs/SkillFactoryLessons/v17/.suo
