@@ -13,3 +13,11 @@
 /Lessons/SkillFactoryLessons/.vs
 /*.vsidx
 /Lessons/SkillFactoryLessons/.vs/SkillFactoryLessons/v17/.suo
+.vs/                  # Папка с настройками и кешем Visual Studio
+*.suo                 # Служебный файл настроек пользователя
+*.dbcache.v2          # Кеш базы данных
+*.user                # Настройки пользователя
+*.userosscache        # Кеш пользовательских настроек
+*.userprefs           # Предпочтения пользователя
+*.tmp                 # Временные файлы
+*.sqlite              # Локальные файлы базы данных (если используются)
