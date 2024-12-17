@@ -1,0 +1,19 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FirstApplication/DesignTimeBuild/.dtbcache.v2
+/.vs/FirstApplication/FileContentIndex/135f29b9-217c-4e5c-a404-195d1cdc4c96.vsidx
+/.vs/FirstApplication/FileContentIndex/286de9ab-2aa2-4074-8da2-414b6ceabd81.vsidx
+/.vs/FirstApplication/FileContentIndex/2a5b8bb3-b0a4-4adf-a5df-cc30539c40d3.vsidx
+/.vs/SkillFactory/FileContentIndex/35b8c648-96ec-46c1-ae62-ac2bce342cef.vsidx
+/.vs/SkillFactory/FileContentIndex/7b9a32f7-d561-4466-bd03-418c96a2265d.vsidx
+/.vs/SkillFactory/FileContentIndex/e14685b9-bba5-45c1-afc2-1bbaa0c8011a.vsidx
+/.vs/SkillFactory/FileContentIndex/eb20ca08-655b-4723-a5db-87a1e5e4e8f6.vsidx
+/.vs/SkillFactory/FileContentIndex/f7f5e028-32c1-4d78-aba3-e7f37be5e0d9.vsidx
+/.vs/slnx.sqlite
+/Lessons/SkillFactoryLessons/.vs/SkillFactoryLessons/FileContentIndex/2369e001-ea33-44e6-bf20-a84767b5b7ab.vsidx
+/Lessons/SkillFactoryLessons/.vs/SkillFactoryLessons/FileContentIndex/4ff768c3-a937-4e70-912b-fa418487ac74.vsidx
+/Lessons/SkillFactoryLessons/.vs/SkillFactoryLessons/FileContentIndex/a427f965-f1ca-4248-b517-e22c5cffd6e6.vsidx
+/Lessons/SkillFactoryLessons/.vs/SkillFactoryLessons/FileContentIndex/cae40995-c32b-499c-b6d0-edc9e3322633.vsidx
+/Lessons/SkillFactoryLessons/.vs/SkillFactoryLessons/FileContentIndex/ebe669a5-6a8f-4e70-98a6-6128d2be0182.vsidx
