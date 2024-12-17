@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkillFactoryLessons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f58bf8a44390554892f10430d29848aff089216")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc793b5b2405891fd8a5a1aa4b91f863c1f451ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkillFactoryLessons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkillFactoryLessons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
