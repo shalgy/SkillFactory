@@ -21,3 +21,6 @@
 *.userprefs           # Предпочтения пользователя
 *.tmp                 # Временные файлы
 *.sqlite              # Локальные файлы базы данных (если используются)
+/Lessons/SkillFactoryLessons/.vs/SkillFactoryLessons/DesignTimeBuild/.dtbcache.v2
+/Lessons/SkillFactoryLessons/SkillFactoryLessons/obj/Debug/net8.0/SkillFactoryLessons.AssemblyInfo.cs
+/Lessons/SkillFactoryLessons/SkillFactoryLessons/obj/Debug/net8.0/SkillFactoryLessons.AssemblyInfoInputs.cache
